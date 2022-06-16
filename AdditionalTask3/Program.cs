@@ -28,5 +28,6 @@ for (int i = 0; i < 3; i++)
     {
         Console.WriteLine("No. >");
     }
+    if (i==2) Console.WriteLine("You loose");
 }
 
